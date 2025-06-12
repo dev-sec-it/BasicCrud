@@ -39,11 +39,9 @@ BasicCrud/
 ## ⚙️ Setup Instructions
 
 ### Prerequisites
-Java 17+
-
-Maven
-
-MySQL or Aiven DB instance
+- Java 17+
+- Maven
+- MySQL or Aiven DB instance
 
 ### Clone the repository
 ```bash
